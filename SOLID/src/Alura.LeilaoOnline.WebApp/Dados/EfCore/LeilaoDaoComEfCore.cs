@@ -1,15 +1,15 @@
-﻿using Alura.LeilaoOnline.WebApp.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using System.Linq;
 using System.Collections.Generic;
-using System.Linq;
+using Microsoft.EntityFrameworkCore;
+using Alura.LeilaoOnline.WebApp.Models;
 
-namespace Alura.LeilaoOnline.WebApp.Dados
+namespace Alura.LeilaoOnline.WebApp.Dados.EfCore
 {
-    public class LeilaoDao
+    public class LeilaoDaoComEfCore : ILeilaoDao
     {
         AppDbContext _context;
 
-        public LeilaoDao(AppDbContext context)
+        public LeilaoDaoComEfCore(AppDbContext context)
         {
             _context = context;
         }
