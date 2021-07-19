@@ -1,0 +1,17 @@
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\bin\Debug\netcoreapp2.2\RelatorioWebAPI.deps.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\bin\Debug\netcoreapp2.2\RelatorioWebAPI.runtimeconfig.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\bin\Debug\netcoreapp2.2\RelatorioWebAPI.runtimeconfig.dev.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\bin\Debug\netcoreapp2.2\RelatorioWebAPI.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\bin\Debug\netcoreapp2.2\RelatorioWebAPI.pdb
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.csproj.AssemblyReference.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.AssemblyInfoInputs.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.AssemblyInfo.cs
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.RazorAssemblyInfo.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.RazorAssemblyInfo.cs
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.pdb
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\asp.net-core\CasaDoCodigo\RelatorioWebAPI\obj\Debug\netcoreapp2.2\RelatorioWebAPI.genruntimeconfig.cache
